@@ -29,7 +29,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine logo" />
+  <!-- Icono de Unreal Engine actualizado (SVG con fondo transparente) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Unreal_Engine_logo.svg" height="40" alt="Unreal Engine logo" />
   <img width="12" />
   
   <!-- Editores y plataformas -->
@@ -41,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
   <img width="12" />
-  <!-- LM Studio (icono personalizado) -->
+  <!-- LM Studio: Si cuentas con un icono sin fondo, reemplaza el siguiente enlace -->
   <img width="50" height="50" src="https://img.icons8.com/ios/50/google-data-studio.png" alt="LM Studio logo" />
 </div>
 
