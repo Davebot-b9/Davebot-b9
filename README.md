@@ -30,4 +30,3 @@
 </div>
 
 ###
-![image](https://github.com/user-attachments/assets/b34361f8-6f1a-47ab-81ba-de37846682ff)
