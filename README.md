@@ -30,6 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine logo" />
   <img width="12" />
+  <img src="[URL_DEL_LOGO_DE_LM_STUDIO](https://images.app.goo.gl/tjUpfCWae37u9VPm8)" height="40" alt="LM Studio"  />
 </div>
 
 ---
