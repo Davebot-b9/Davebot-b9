@@ -14,12 +14,13 @@
 ### 🚀 Sobre mí
 🎮 Apasionado por el desarrollo de videojuegos y la resolución de problemas complejos.  
 🛠️ Trabajando en un **sistema de ahorro de partidas** con soporte para múltiples ranuras, guardado en la nube y compatibilidad con JSON/binarios.  
-📚 Siempre explorando nuevas tecnologías y herramientas para mejorar mis habilidades.  
+📚 Siempre explorando nuevas tecnologías y herramientas para mejorar mis habilidades.
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
 <div align="center">
+  <!-- Lenguajes y motores -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
@@ -30,7 +31,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine logo" />
   <img width="12" />
-  <img src="https://images.app.goo.gl/tjUpfCWae37u9VPm8" height="40" alt="LM Studio"  />
+  
+  <!-- Editores y plataformas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
+  <img width="12" />
+  <!-- LM Studio (icono personalizado) -->
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/google-data-studio.png" alt="LM Studio logo" />
 </div>
 
 ---
@@ -42,4 +54,4 @@
 
 ---
 
-¡Conectemos! 🚀 Si tienes algún proyecto interesante o simplemente quieres charlar sobre desarrollo de videojuegos, no dudes en contactarme.  
+¡Conectemos! 🚀 Si tienes algún proyecto interesante o simplemente quieres charlar sobre desarrollo de videojuegos, no dudes en contactarme.
