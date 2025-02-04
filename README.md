@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity logo" />
   <img width="12" />
-  <!-- Icono de Unreal Engine actualizado -->
+  <!-- Icono de Unreal Engine -->
   <img width="48" height="48" src="https://img.icons8.com/deco/48/unreal-engine.png" alt="unreal-engine"/>
   <img width="12" />
   
@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
   <img width="12" />
   <!-- LM Studio -->
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/google-data-studio.png" alt="google-data-studio"/>
+  <img width="50" height="50" src="https://images.seeklogo.com/logo-png/61/1/lm-studio-logo-png_seeklogo-611662.png" alt="LM Studio logo" />
 </div>
 
 ---
