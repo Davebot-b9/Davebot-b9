@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/22ichueph2d3uo2s3bkl6a4ba?si=56a57e074c474b70">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ichueph2d3uo2s3bkl6a4ba&count={count}"  />
+    <img src="[https://spotify-recently-played-readme.vercel.app/api?user=22ichueph2d3uo2s3bkl6a4ba&count={count}](https://spotify-recently-played-readme.vercel.app/api?user=22ichueph2d3uo2s3bkl6a4ba&count={count})"  />
   </a>
 </div>
 
