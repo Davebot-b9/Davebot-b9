@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/22ichueph2d3uo2s3bkl6a4ba?si=56a57e074c474b70">
+  <a href="[https://open.spotify.com/user/22ichueph2d3uo2s3bkl6a4ba?si=56a57e074c474b70](https://open.spotify.com/user/22ichueph2d3uo2s3bkl6a4ba?si=5010d4160f844095)">
     <img src="[https://spotify-recently-played-readme.vercel.app/api?user=22ichueph2d3uo2s3bkl6a4ba&count={count}](https://spotify-recently-played-readme.vercel.app/api?user=22ichueph2d3uo2s3bkl6a4ba&count={count})"  />
   </a>
 </div>
