@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <a href="[https://open.spotify.com/user/David Reyes](https://open.spotify.com/user/22ichueph2d3uo2s3bkl6a4ba?si=56a57e074c474b70)">
+  <a href="https://open.spotify.com/user/David Reyes/)">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=David%20Reyes&count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
